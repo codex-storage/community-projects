@@ -1,4 +1,4 @@
-# community-projects
+# Awesome Codex
 Repo of community-driven Codex projects
 
 | Name (link)| Description |
